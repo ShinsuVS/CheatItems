@@ -1,0 +1,4 @@
+name: CheatItems
+version: '1.0-SNAPSHOT'
+main: org.mypluginsff.cheatitems.CheatItems
+description: CheatItems BW for Agera001 by TheDigerMax(Shinsu)

@@ -1,0 +1,4 @@
+name: CheatItems
+version: '${project.version}'
+main: org.mypluginsff.cheatitems.CheatItems
+description: CheatItems BW for Agera001 by TheDigerMax(Shinsu)
